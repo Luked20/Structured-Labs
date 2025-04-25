@@ -1,24 +1,24 @@
 # AI Content Analysis Dashboard
 
-Data analysis project about AI-generated content across different industries.
+A data analysis project exploring AI-generated content across various industries.
 
 ## Status
 
-We encountered an internal server error during Preswald deployment (Internal Server Error). Therefore, we are hosting the code here on GitHub for testing and development.
+I'm currently facing an internal server error when trying to deploy the dashboard using Preswald. While I work on resolving this, the project is being hosted here on GitHub for development and testing purposes.
 
 ## Basic Structure
 
-- `app.py`: Main dashboard code
-- `preswald.toml`: Preswald configurations
-- `data/`: Folder containing the analysis dataset
+- `app.py`: Main dashboard script
+- `preswald.toml`: Configuration file for Preswald
+- `data/`: Directory containing the dataset used for analysis
 
-## Funcionalidades
+## Features
 
-- Análise de distribuição por indústria
-- Tendências de adoção de IA
-- Impacto econômico e social
-- Métricas de confiança do consumidor
-- Visualizações interativas
+- Industry distribution analysis
+- AI adoption trends
+- Economic and social impact insights
+- Consumer trust metrics
+- Interactive data visualizations
 
 ## Próximos Passos
 
