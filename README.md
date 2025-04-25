@@ -20,13 +20,3 @@ I'm currently facing an internal server error when trying to deploy the dashboar
 - Consumer trust metrics
 - Interactive data visualizations
 
-## Próximos Passos
-
-- Resolver o problema de deploy com a Preswald
-- Implementar testes adicionais
-- Adicionar mais análises e visualizações
-- Melhorar a documentação
-
-## Contribuições
-
-Contribuições são bem-vindas! Por favor, abra uma issue ou pull request para discutir mudanças. 
