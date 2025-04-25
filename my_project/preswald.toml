@@ -1,0 +1,25 @@
+[project]
+title = "AI Content Analysis Dashboard"
+version = "0.1.0"
+port = 8501
+slug = "ai-content-analysis"
+entrypoint = "app.py"
+
+[branding]
+name = "AI Content Analysis"
+logo = "images/logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#3498DB"
+
+[data.ai_content]
+type = "csv"
+path = "data/ai_content_analysis.csv"
+description = "AI-Generated Content Analysis Dataset"
+
+[data.sample_csv]
+type = "csv"
+path = "data/sample.csv"
+
+[logging]
+level = "INFO"
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
